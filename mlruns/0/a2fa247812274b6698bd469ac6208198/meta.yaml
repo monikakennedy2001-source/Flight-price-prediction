@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/py%20project/Flight%20price%20prediction/mlruns/0/a2fa247812274b6698bd469ac6208198/artifacts
+end_time: 1749369205455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2fa247812274b6698bd469ac6208198
+run_name: RandomForest_Local
+run_uuid: a2fa247812274b6698bd469ac6208198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749369203136
+status: 3
+tags: []
+user_id: Monika

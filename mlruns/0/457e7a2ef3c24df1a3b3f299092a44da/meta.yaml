@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/py%20project/Flight%20price%20prediction/mlruns/0/457e7a2ef3c24df1a3b3f299092a44da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 457e7a2ef3c24df1a3b3f299092a44da
+run_name: silent-newt-927
+run_uuid: 457e7a2ef3c24df1a3b3f299092a44da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749366549444
+status: 1
+tags: []
+user_id: Monika

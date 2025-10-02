@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/py%20project/Flight%20price%20prediction/mlruns/0/3d2e97ace87d448290bda1d83fc95e89/artifacts
+end_time: 1749366525076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d2e97ace87d448290bda1d83fc95e89
+run_name: XGBoost
+run_uuid: 3d2e97ace87d448290bda1d83fc95e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749366522396
+status: 3
+tags: []
+user_id: Monika
